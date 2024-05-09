@@ -1,6 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Rinrin Karmila",
+	"description": "This exercise freeCodeCamp",
+	"keywords": [
+		"freecodecamp",
+		"microservice",
+		"nodejs"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
